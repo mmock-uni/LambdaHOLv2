@@ -30,7 +30,7 @@ public class A_Lambdas {
      * Write a lambda expression that is a predicate
      * that tests whether a string is longer than four characters.
      */
-    @Test @Ignore
+    @Test
     public void a_predicate1() {
         Predicate<String> pred = null; // TODO
 
