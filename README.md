@@ -13,12 +13,12 @@ lambda or new API that enables the test to pass.
 
 ## Lab Instructions
 
-1. Open the NetBeans development build (or your favorite IDE).
+1. Open your favorite IDE and import it as the Maven project .
 
 2. Open the LambdaLab project. If you don't have it, it can be cloned
 from github:
 
-    git clone https://github.com/stuart-marks/LambdaHOLv2
+    git clone https://github.com/ghxiao/LambdaHOLv2
 
 3. Inside the LambdaLab project, open the Test Packages folder.
 
